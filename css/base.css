@@ -111,7 +111,7 @@ video {
     text-decoration: none;
 }
 h1{
-    text-transform:uppercase;
+    text-transform:capitalize;
     font-size:72px;
     font-family:'Brush Script MT';
     font-variant: small-caps;
