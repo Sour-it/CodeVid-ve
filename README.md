@@ -1,2 +1,3 @@
-# megaevent
- College Event Website
+# MEGAEVENT
+ College Event Website using HTML,CSS, JAVASCRIPT.
+
